@@ -1,0 +1,12 @@
+{
+     "id": "4067",
+     "parent_exercise_id": "4064",
+     "name": "Question 3",
+     "slug": "files__files/files-question3_md",
+     "sequence_num": 3,
+     "review_type": "manual",
+     "solution": null,
+     "content": "[\n  \"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"files-question3_key1\\\\n\\\\n\\\\n\\\"}\",\n  \"{\\\"type\\\":\\\"python\\\",\\\"value\\\":{\\\"code\\\":\\\"banks_list = [\\\\\\\"Kotak\\\\\\\", \\\\\\\"HDFC\\\\\\\", \\\\\\\"RBL\\\\\\\", \\\\\\\"SBI\\\\\\\", \\\\\\\"Bank of Baroda\\\\\\\"]\\\",\\\"testCases\\\":[]}}\"\n]",
+     "submission_type": null,
+     "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question3.md"
+}
